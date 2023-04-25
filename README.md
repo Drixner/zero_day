@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'><!--@Drix-->
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)<!--@Drixner-->
-![GitHub last commit](https://img.shields.io/github/last-commit/Drixner/holbertonschool-higher_level_programming)<!--@Drix-->
+![GitHub last commit](https://img.shields.io/github/last-commit/drixner/holbertonschool-higher_level_programming)<!--@Drix-->
 [![C|C](https://img.shields.io/badge/Repo-00%20commits-orange.svg)](https://sourcerer.io/Drix)<!--@Drix-->
 
 # Git <!--@Drix-->
